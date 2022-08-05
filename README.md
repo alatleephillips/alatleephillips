@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hey there, I'm Alex Phillips! 
 
-<!--
-**alatleephillips/alatleephillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "People think of education as something they can finish" - Isaac Asimov 
 
-Here are some ideas to get you started:
+Like one of my favorite science fiction writers, I'm always learning. Currently, I'm trying to learn R, HTML, and CSS. I have no idea what I'm doing, but that's okay!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐦 [**my twitter**](www.alexandraatleephillips.com)  👩🏼‍💻 [**my website**](www.alexandraatleephillips.com) 📝 [**my publications**](https://scholar.google.com/citations?user=J__st40AAAAJ&hl=en) 
+
+ 
+### Some things about me! 
+
+- 🎞 | I'm a professional photographer! I love to photograph weddings, engagements, families, and basically anything with people. I also love to shoot on film and collect antique cameras. You can see my work on my [website](www.alexphillipsphoto.com). 
+
+- 🚴‍♀️ | I collect outdoor hobbies! I love to do a lot of different sports outside, like climbing, tennis, volleyball, ocean swimming, biking, skiing, and trail running. Let's be friends on [strava](https://www.strava.com/athletes/43089239)! 
+
+- 🗒 | I am passionate about science communication, esepcially as a tool for improving DEI in STEM. I founded the project [Women Doing Science](www.womendoingscience) and wrote an (open access!) [paper](https://journals.sagepub.com/doi/full/10.1177/20563051221113068) on its impact. 
+
+### 🎓 Education 
+
+- 2021 | PhD, Geochemistry, Caltech, *Sulfur Cycling in Lakes and Oceans* 
+- 2018 | MS, Geochemistry, Caltech, Geological and Planetary Sciences
+- 2015 | BA, Biology, UC Santa Barbara, College of Creative Studies
+
+
+
