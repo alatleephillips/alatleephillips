@@ -15,6 +15,8 @@ Like one of my favorite science fiction writers, I'm always learning. Currently,
 
 - 🗒 | I am passionate about science communication, esepcially as a tool for improving DEI in STEM. I founded the project [Women Doing Science](www.womendoingscience) and wrote an (open access!) [paper](https://journals.sagepub.com/doi/full/10.1177/20563051221113068) on its impact. 
 
+- 📚 | I am a huge science fiction and fantasy book nerd. Please send me your favorite books and *all* of your thoughts and feelings on my favorites. Currently: working my way through Wheel of Time! Feel free to friend me on [Goodreads!](https://www.goodreads.com/user/show/75106360-alex-phillips) 
+
 ### 🎓 Education 
 
 - 2021 | PhD, Geochemistry, Caltech, *Sulfur Cycling in Lakes and Oceans* 
